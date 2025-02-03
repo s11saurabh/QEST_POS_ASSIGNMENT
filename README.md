@@ -3,6 +3,7 @@
 A comprehensive e-commerce platform built with React, Node.js, and MongoDB, featuring PayPal integration and advanced search capabilities.
 
 ## Live Demo
+(Deployed link takes 1-2 min to open.pls wait after clicking on it)
 - **Deployed Site**: [https://ecom-kosr.onrender.com/](https://ecom-kosr.onrender.com/)
 - **GitHub Repository**: [https://github.com/s11saurabh/QEST_POS_ASSIGNMENT](https://github.com/s11saurabh/QEST_POS_ASSIGNMENT)
 <img width="1469" alt="image" src="https://github.com/user-attachments/assets/8416ac05-c58d-415c-a940-58485cd27f01" />
